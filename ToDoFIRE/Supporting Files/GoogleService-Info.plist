@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>407560677799-lsjjcj00ljkp9dr64njklooajehvu328.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.407560677799-lsjjcj00ljkp9dr64njklooajehvu328</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-SmFPdBvICv-Z8p2y22TC0cA9rBY39Kk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>407560677799</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eduardivash.ToDoFIRE</string>
+	<key>PROJECT_ID</key>
+	<string>todofire-c8ce2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todofire-c8ce2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:407560677799:ios:a3e33c9d7d8cae61d46e82</string>
+	<key>DATABASE_URL</key>
+	<string>https://todofire-c8ce2.firebaseio.com</string>
+</dict>
+</plist>

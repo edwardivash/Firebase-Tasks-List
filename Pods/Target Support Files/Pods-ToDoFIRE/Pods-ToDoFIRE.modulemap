@@ -1,0 +1,6 @@
+framework module Pods_ToDoFIRE {
+  umbrella header "Pods-ToDoFIRE-umbrella.h"
+
+  export *
+  module * { export * }
+}
